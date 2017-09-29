@@ -1,6 +1,6 @@
 {
   "name": "bsit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "react plugins with bootstrap",
   "main": "index.js",
   "scripts": {
