@@ -1,0 +1,23 @@
+{
+  "name": "bsit",
+  "version": "1.0.0",
+  "description": "react plugins with bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/situ2011/bsit.git"
+  },
+  "keywords": [
+    "react",
+    "bootstarp"
+  ],
+  "author": "situ",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/situ2011/bsit/issues"
+  },
+  "homepage": "https://github.com/situ2011/bsit#readme"
+}
